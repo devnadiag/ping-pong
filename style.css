@@ -22,14 +22,16 @@ body{
     left:475px;
     width:20px;
     height:20px;
-    background-color:#888;
+    background-color:#ffffff;
+    border-radius: 50%;
 }
 .barra{
     position:absolute;
     width:20px;
     height:140px;
-    background-color:#888;
+    background-color:#685f5f;
     top:180px;
+    border-radius: 15px;
 }
 .esquerda{
     left:10px
